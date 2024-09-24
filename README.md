@@ -28,3 +28,13 @@ http://localhost:3000
 ## Submit the form:
 Fill out the form with your name and address and click Submit. The data will be sent to the backend and saved in the SQLite database.
 ```
+
+Test the API: Send a POST request to http://localhost:3000/register with a JSON body:
+{
+    "name": "Raj",
+    "street": "123 Main",
+    "city": "Bangalore",
+    "state": "KA",
+    "postalCode": "62701"
+}
+
