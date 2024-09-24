@@ -1,6 +1,6 @@
 # User Address Registration App
 
-This project is a Node.js application that allows users to register with their name and address, which are stored in a SQLite database. The backend is built using **Express** and **Sequelize ORM**, and the frontend includes a simple dark-themed form for submitting the data.
+This project is a Node.js application that allows users to register with their name and address, which are stored in a SQLite database. The backend is built using **Express** and **Java Script**, and the frontend includes a simple dark-themed form for submitting the data.
 
 ## How to Run the Project
 
